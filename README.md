@@ -15,6 +15,6 @@ You can see a list of my completed projects here:
       - URL shortening API landing page
   
   - Backend + Front End Project 
-      -E-Commerce website
+      - E-Commerce website
 
   - Java Projects 
