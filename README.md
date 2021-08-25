@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello Human, or robot! All are accepted here.  👋
 
-<!--
-**kanz-creation/kanz-creation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You might be wondering who I am, its hard to say but heres a few words: 
+    - A passion for programming (who knew?) 
+    - A big fan of the Montreal Canadiens 
+    - My fav animal is a llama 
 
-Here are some ideas to get you started:
+Currently, I am learning about the cloud and MERN stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can see a list of my completed projects here:
+
+  - Front End Projects 
+      - To do App 
+      - My personal Website 
+      - URL shortening API landing page
+  
+  - Backend + Front End Project 
+      -E-Commerce website
+
+  - Java Projects 
