@@ -1,9 +1,9 @@
 ### Hello Human, or robot! All are accepted here. 👋🥳
 
 You might be wondering who I am, its hard to say but heres a few words: 
-    - Passion for programming (who knew?) 💻
-    - Big fan of the Montreal Canadiens 
-    - My fav animal is a llama 🦙 
+- Passion for programming (who knew?) 💻
+- Big fan of the Montreal Canadiens 
+- My fav animal is a llama 🦙 
 
 Currently, I am learning about the cloud and MERN stack. 
 
