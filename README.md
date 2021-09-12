@@ -16,6 +16,8 @@ You can see a list of my completed projects here:
   
   - Backend + Front End Project 
       - E-Commerce website
+      - MERN Stack Messaging App
+      - Amazon Clone App
 
   - Java Projects 
      - ExpressParkingSystem
